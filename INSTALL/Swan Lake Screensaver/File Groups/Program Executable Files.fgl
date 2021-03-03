@@ -1,0 +1,13 @@
+[TopDir]
+file0=C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full\file_id.diz
+file1=C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full\license.txt
+file2=C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full\pad_file.xml
+file3=C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full\readme.txt
+file4=C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full\Swan Lake.exe
+file5=C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full\swanlake.chm
+file6=C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full\swanlake.dat
+
+[General]
+Type=FILELIST
+Version=1.00.000
+

@@ -1,0 +1,53 @@
+////////////////////////////////////////////////////////////////////////////////
+///////////////////InstallShield Media Library Report Summary///////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+Media Name      : Default
+Report Filename : C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Install\Swan Lake Screensaver\Media\Default\Report Files\8-29-2005 11.03.41PM.rpt
+Date            : 08/29/2005
+Time            : 11:03PM
+
+Number of Components:                1 
+Number of File Groups:               1 
+Number of Files:                     8 
+Total Size of Files:         2,158,261 (bytes)
+
+==========
+COMPONENTS
+==========
+
+
+     Program Files
+
+
+////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////Report Details/////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+================================================================================
+                           COMPONENT: "Program Files"
+================================================================================
+
+SUMMARY:
+    Total Files:                8 (files for this component only)
+    Source Bytes:       2,158,261 (files for this component only)
+
+
+                **** File Group: "Program Executable Files" ****
+
+
+<Directory>: C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    swanlake.dat                02/17/2005  00:52:34    1,321,079               
+    file_id.diz                 12/09/2004  00:07:14          441               
+    license.txt                 01/23/2005  18:33:10        7,360               
+    order.txt                   01/10/2005  16:04:04        1,768               
+    pad_file.xml                01/23/2005  18:46:34       14,477               
+    readme.txt                  08/29/2005  22:57:53       15,937               
+    Swan Lake.exe               08/29/2005  23:00:03      706,056               
+    swanlake.chm                08/29/2005  22:55:52       91,143               
+    --------------------------  ----------  --------  -----------  -------------
+    Count=8                                             2,158,261               

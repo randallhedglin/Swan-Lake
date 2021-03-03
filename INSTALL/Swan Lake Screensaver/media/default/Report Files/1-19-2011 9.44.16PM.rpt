@@ -1,0 +1,52 @@
+////////////////////////////////////////////////////////////////////////////////
+///////////////////InstallShield Media Library Report Summary///////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+Media Name      : Default
+Report Filename : C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Install\Swan Lake Screensaver\Media\Default\Report Files\1-19-2011 9.44.16PM.rpt
+Date            : 01/19/2011
+Time            : 9:44PM
+
+Number of Components:                1 
+Number of File Groups:               1 
+Number of Files:                     7 
+Total Size of Files:         2,155,968 (bytes)
+
+==========
+COMPONENTS
+==========
+
+
+     Program Files
+
+
+////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////Report Details/////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+================================================================================
+                           COMPONENT: "Program Files"
+================================================================================
+
+SUMMARY:
+    Total Files:                7 (files for this component only)
+    Source Bytes:       2,155,968 (files for this component only)
+
+
+                **** File Group: "Program Executable Files" ****
+
+
+<Directory>: C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Versions\Current\Full
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    file_id.diz                 01/19/2011  18:24:07          441               
+    license.txt                 01/19/2011  18:17:55        5,436               
+    pad_file.xml                01/19/2011  19:57:11       11,561               
+    readme.txt                  01/19/2011  20:00:38       12,551               
+    Swan Lake.exe               01/19/2011  21:17:01      675,840  1.0.3.0      
+    swanlake.chm                01/19/2011  20:00:54       82,957               
+    swanlake.dat                12/26/2006  23:10:48    1,367,182               
+    --------------------------  ----------  --------  -----------  -------------
+    Count=7                                             2,155,968               

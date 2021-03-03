@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>2.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 2.0.1.22 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>WaveBreak Software</Company_Name>
+		<Address_1>P.O. Box 112</Address_1>
+		<Address_2 />
+		<City_Town>Saxonburg</City_Town>
+		<State_Province>PA</State_Province>
+		<Zip_Postal_Code>16056</Zip_Postal_Code>
+		<Country>USA</Country>
+		<Company_WebSite_URL>http://www.wavebreaksoftware.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>WaveBreak</Author_First_Name>
+			<Author_Last_Name>Software</Author_Last_Name>
+			<Author_Email>webmaster@wavebreaksoftware.com</Author_Email>
+			<Contact_First_Name>WaveBreak</Contact_First_Name>
+			<Contact_Last_Name>Software</Contact_Last_Name>
+			<Contact_Email>webmaster@wavebreaksoftware.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>sales@wavebreaksoftware.com</Sales_Email>
+			<Support_Email>support@wavebreaksoftware.com</Support_Email>
+			<General_Email>info@wavebreaksoftware.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Swan Lake Screensaver</Program_Name>
+		<Program_Version>1.0.0</Program_Version>
+		<Program_Release_Month>01</Program_Release_Month>
+		<Program_Release_Day>23</Program_Release_Day>
+		<Program_Release_Year>2005</Program_Release_Year>
+		<Program_Cost_Dollars>17.95</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win98,WinME,WinNT 3.x,WinNT 4.x,Windows2000,WinXP,Windows2003</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category />
+		<Program_Category_Class>Desktop::Screen Savers: Nature</Program_Category_Class>
+		<Program_Categories />
+		<Program_System_Requirements />
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_VB_Runtime>N</Includes_VB_Runtime>
+		<Includes_DirectX>N</Includes_DirectX>
+		<File_Info>
+			<Filename_Versioned />
+			<Filename_Previous />
+			<Filename_Generic />
+			<Filename_Long />
+			<File_Size_Bytes>2171440</File_Size_Bytes>
+			<File_Size_K>2120</File_Size_K>
+			<File_Size_MB>2.07</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>Y</Has_Expire_Info>
+			<Expire_Count>7</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>screen saver, screensaver, swans, nature, mountain, lake, outdoors, fish, water</Keywords>
+			<Char_Desc_45>Graceful swans swim lazily in a peaceful lake</Char_Desc_45>
+			<Char_Desc_80>Watch peacefully as graceful swans float lazily around a tranquil mountain lake.</Char_Desc_80>
+			<Char_Desc_250>This beautiful screensaver will help you relax after (and even during!) a hard day's work.  Watch peacefully as families of graceful swans and other creatures float lazily around the shores of a pristine mountain lake.</Char_Desc_250>
+			<Char_Desc_450>This beautiful screensaver will help you relax after (and even during!) a hard day's work.  Watch peacefully as families of graceful swans and other creatures float lazily around the shores of a pristine mountain lake.  Hear soothing sounds of nature accompanied by the soft melody of "The Swan", one of the most beautiful songs ever written.  You've earned a break!  Download the free trial now!</Char_Desc_450>
+			<Char_Desc_2000>The beautiful Swan Lake Screensaver provides a tranquil, relaxing atmosphere in your home or office during the times that your computer is not otherwise being used.  Watch peacefully as families of graceful swans float lazily around the shores of a pristine mountain lake, modeled after the scenic views of the Rocky Mountains of Colorado, USA.  Listen to soothing sounds of nature accompanied by the soft melody of "Le Cygne (The Swan)" by French composer Camille Saint-Saens, one of the most beautiful songs ever written.  Swimming turtles, splashing fish, chirping songbirds, darting dragonflies, and soaring eagles complete the ambiance and make Swan Lake one of the most wonderfully refreshing screensavers ever created.
+
+The lake scene is fully customizable, depending upon your preferences, by means of an easy-to-use configuration menu.  As with all WaveBreak Software products, this screensaver contains NO ADWARE, NO SPYWARE, or other HIDDEN SOFTWARE, which are common annoyances found in many of the "free" screensavers and games that are available for download today.  Our software is of the highest quality, and we at WaveBreak Software refuse to bombard our valued customers with these nuisances.
+
+This software is distributed as SHAREWARE.  The basic shareware premise is "try before you buy," which is obviously the most natural and comfortable to way to purchase any product.  Few people would buy a car without taking it for a test drive or purchase a tool without seeing what it does, and software is no exception to this rule.  The shareware principle allows a software product to be installed and used, with some limitations, before any money is exchanged.  If the software runs properly and is useful to the consumer, then the fully-functional version can be purchased and installed, with little or no risk to the purchaser of having software they do not need or cannot use.
+</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.wavebreaksoftware.com/swanlake.htm</Application_Info_URL>
+			<Application_Order_URL>http://www.wavebreaksoftware.com/swanlake.htm</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.wavebreaksoftware.com/resources/swanlake/scrnshot.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.wavebreaksoftware.com/resources/swanlake/appicon.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.wavebreaksoftware.com/resources/swanlake/pad_file.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.wavebreaksoftware.com/downloads/swanlake_sw.exe</Primary_Download_URL>
+			<Secondary_Download_URL>http://www.wavebreaksoftware.com/downloads/swanlake_sw.zip</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA>
+Swan Lake Screensaver
+
+END-USER LICENSE AGREEMENT
+--------------------------
+
+IMPORTANT--READ THESE TERMS CAREFULLY BEFORE INSTALLING THIS SOFTWARE.  BY INSTALLING AND USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS LICENSE AGREEMENT AND THAT YOU AGREE TO BE BOUND BY ITS TERMS.  IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT, YOU ARE REQUIRED TO EXIT THIS SETUP PROGRAM WITHOUT INSTALLING OR USING THE SOFTWARE.
+
+THE TRIAL VERSION OF THE SOFTWARE PROVIDED HEREUNDER WILL EXPIRE AND NOT OPERATE AFTER SEVEN (7) DAYS FROM INSTALLATION.  THE PURCHASE OF THE REGISTERED VERSION IS REQUIRED FOR USE OF THE SOFTWARE AFTER THE SEVEN (7)-DAY TRIAL PERIOD.
+
+A. GRANT OF LICENSE for users of Registered Version only
+
+WaveBreak Software grants users of the Registered Version of this Software a non-exclusive, non-transferable license to use the Software with which this License Agreement is distributed, including any Documentation accompanying the Software, on a single personal computer, and to make one (1) backup copy of the Software, provided that:
+  (i) the Software is installed on only one (1) personal computer at any given time;
+  (ii) the Software and all related files are not modified in any way;
+  (iii) all copyright notices are maintained on the Software; and
+  (iv) you agree to be bound by the terms of this License Agreement.
+
+B. GRANT OF LICENSE for users of Trial Version only
+
+WaveBreak Software grants users of the Trial Version of this Software the right to use, copy and distribute the Trial Version of the Software with which this License Agreement is distributed as freely as possible, provided that:
+  (i) only the Trial Version of the Software is distributed; Trial Version users who become Registered Version users may not copy or distribute the Registered Version of this Software in any way except as noted in Section A above, pertaining to Registered Users of this Software;
+  (ii) the Software is distributed only in its complete form, including all files listed in the "Installation" section of the README.TXT file that accompanies this Software;
+  (iii) the Software is distributed only in the original self-extracting EXE or compressed ZIP files in which it is originally distributed from WaveBreak Software or an authorized distributor;
+  (iv) the Software is distributed without remuneration of any form, unless the express written consent of WaveBreak Software is obtained prior to any such distribution;
+  (v) the Software and all related files are not modified in any way;
+  (vi) all copyright notices are maintained on the Software; and
+  (vii) you agree to be bound by the terms of this License Agreement.
+
+The remaining sections apply to users of both the Registered and Trial Versions of this Software, unless otherwise noted:
+
+C. OWNERSHIP
+
+You have no ownership rights in the Software.  Rather, you have a license to use the Software as long as this License Agreement remains in full force and effect.  Ownership of the Software, Documentation and all Intellectual Property rights therein shall remain at all times with WaveBreak Software.  Any other use of the Software by any person, business, corporation, government organization or any other entity is strictly forbidden and is a violation of this License Agreement.
+
+D. COPYRIGHT
+
+The Software and Documentation contain material that is protected by United States Copyright Law and Trade Secret Law, and by international treaty provisions.  All rights not granted to you herein are expressly reserved by WaveBreak Software.  You may not remove any proprietary notice of WaveBreak Software from any copy of the Software or Documentation. 
+
+E. RESTRICTIONS
+
+You may not publish, display, disclose, rent, lease, modify, loan, distribute, or create derivative works based on the Software or any part thereof.  You may not reverse engineer, decompile, translate, adapt, or disassemble the Software, nor shall you attempt to create the source code from the object code of the Software.
+
+F. CONFIDENTIALITY
+
+You acknowledge that the Software contains proprietary trade secrets of WaveBreak Software and you hereby agree to maintain the confidentiality of the Software using at least as great a degree of care as you use to maintain the confidentiality of your own most confidential information.  You agree to reasonably communicate the terms and conditions of this License Agreement to those persons employed by you who come into contact with the Software, and to use reasonable best efforts to ensure their compliance with such terms and conditions, including, without limitation, not knowingly permitting such persons to use any portion of the Software for the purpose of deriving the source code of the Software or defeating the registration requirement.
+
+G. LIMITATION OF LIABILITY
+
+THIS SOFTWARE IS SOLD AS IS AND WITHOUT WARRANTY OF ANY KIND, EXPRESSED, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+IN NO EVENT SHALL THE OWNER(S) AND/OR EMPLOYEES OF WAVEBREAK SOFTWARE BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+THE END USER ASSUMES THE ENTIRE RISK OF USING THIS SOFTWARE.  ANY LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT REPLACEMENT OR REFUND OF THE PURCHASE PRICE.
+
+H. TERMINATION
+
+This License Agreement is effective until it is terminated.  You may terminate this License Agreement at any time by destroying or otherwise removing from your computer all copies of the Software and Documentation in your possession or under your control.  WaveBreak Software may terminate this License Agreement for any reason, including, but not limited to, if WaveBreak Software finds that you have violated any of the terms of this License Agreement.  Upon notification of termination, you agree to destroy or otherwise remove from your computer all copies of the Software and Documentation and to certify in writing that all known copies, including backup copies, have been destroyed.  All provisions relating to confidentiality, proprietary rights, and non-disclosure shall survive the termination of this License Agreement.
+
+I. GENERAL
+
+This License Agreement shall be construed, interpreted and governed by the laws of the United States of America without regard to conflicts of law provisions thereof.  The exclusive forum for any disputes arising out of or relating to this License Agreement shall be an appropriate court sitting in Butler County, Pennsylvania, USA.  This License Agreement shall constitute the entire Agreement between the parties hereto.  Any waiver or modification of this License Agreement shall only be effective if it is in writing and signed by both parties hereto.  If any part of this License Agreement is found invalid or unenforceable by a court of competent jurisdiction, the remainder of this License Agreement shall be interpreted so as to reasonably effect the intention of the parties hereto.
+
+Copyright (c) 2005 WaveBreak Software
+
+Updated January 23, 2005
+</EULA>
+	</Permissions>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>Y</ASP_Member>
+		<ASP_Member_Number>05720</ASP_Member_Number>
+	</ASP>
+	<Affiliates>
+		<Affiliates_RegNow_Vendor_ID>N/A</Affiliates_RegNow_Vendor_ID>
+	</Affiliates>
+</XML_DIZ_INFO>

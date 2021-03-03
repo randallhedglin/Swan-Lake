@@ -1,0 +1,58 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Swan Lake - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Release/swanlake.res" /i "Source" /d "NDEBUG" "C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Source\swanlake.rc"" 
+Creating temporary file "C:\DOCUME~1\Randy\LOCALS~1\Temp\RSP10E5.tmp" with contents
+[
+/nologo /G6 /Gr /ML /W3 /GX /O2 /Ob2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/Swan Lake.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Source\r3dapp.cpp"
+"C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Engine\r3ddxa.cpp"
+"C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Engine\r3ddxg.cpp"
+"C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Engine\r3dwin.cpp"
+"C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Engine\r3dxfa.cpp"
+"C:\Documents and Settings\Randy\My Documents\Randy's Folder\Swan Lake\Source\swanlake.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Randy\LOCALS~1\Temp\RSP10E5.tmp" 
+Creating temporary file "C:\DOCUME~1\Randy\LOCALS~1\Temp\RSP10E6.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Swan Lake.pdb" /machine:I386 /out:"Release/Swan Lake.exe" 
+".\Release\r3dapp.obj"
+".\Release\r3ddxa.obj"
+".\Release\r3ddxg.obj"
+".\Release\r3dwin.obj"
+".\Release\r3dxfa.obj"
+".\Release\swanlake.obj"
+".\Release\swanlake.res"
+"..\..\..\..\..\Program Files\Microsoft Visual Studio\VC98\Lib\LZ32.LIB"
+"..\..\..\..\..\Program Files\Microsoft Visual Studio\VC98\Lib\IMAGEHLP.LIB"
+".\Source\htmlhelp\htmlhelp.lib"
+"..\..\..\..\..\DXSDK\lib\DxErr8.lib"
+"..\..\..\..\..\DXSDK\lib\dxguid.lib"
+"..\..\..\..\..\DXSDK\lib\d3d8.lib"
+"..\..\..\..\..\DXSDK\lib\d3dx8.lib"
+"..\..\..\..\..\DXSDK\lib\d3dxof.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\Randy\LOCALS~1\Temp\RSP10E6.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+r3dapp.cpp
+r3ddxa.cpp
+r3ddxg.cpp
+r3dwin.cpp
+r3dxfa.cpp
+swanlake.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Swan Lake.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

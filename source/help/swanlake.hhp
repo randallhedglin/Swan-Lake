@@ -1,0 +1,42 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=swanlake.chm
+Contents file=swanlake.hhc
+Default Font=Arial,9,0
+Default topic=about.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=Swan Lake Screensaver Help
+
+
+[FILES]
+video.htm
+about.htm
+advanced.htm
+audio.htm
+cancel.htm
+config.htm
+contact.htm
+defaults.htm
+environment.htm
+features.htm
+help.htm
+legal.htm
+ok.htm
+requirements.htm
+about_files\image002.gif
+about_files\image001.gif
+advanced_files\image002.gif
+advanced_files\image001.gif
+audio_files\image002.gif
+audio_files\image001.gif
+video_files\image002.gif
+video_files\image001.gif
+environment_files\image002.gif
+environment_files\image001.gif
+config_files\image002.gif
+config_files\image001.gif
+
+[INFOTYPES]
+

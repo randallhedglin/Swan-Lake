@@ -1,0 +1,78 @@
+
+Swan Lake Screensaver
+
+
+END-USER LICENSE AGREEMENT
+--------------------------
+
+IMPORTANT--READ THESE TERMS CAREFULLY BEFORE INSTALLING THIS SOFTWARE.  BY INSTALLING AND USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS LICENSE AGREEMENT AND THAT YOU AGREE TO BE BOUND BY ITS TERMS.  IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT, YOU ARE REQUIRED TO EXIT THIS SETUP PROGRAM WITHOUT INSTALLING OR USING THE SOFTWARE.
+
+THE TRIAL VERSION OF THE SOFTWARE PROVIDED HEREUNDER WILL EXPIRE AND NOT OPERATE AFTER SEVEN (7) DAYS FROM INSTALLATION.  THE PURCHASE OF THE REGISTERED VERSION IS REQUIRED FOR USE OF THE SOFTWARE AFTER THE SEVEN (7)-DAY TRIAL PERIOD.
+
+
+A. GRANT OF LICENSE for users of Registered Version only
+
+WaveBreak Software grants users of the Registered Version of this Software a non-exclusive, non-transferable license to use the Software with which this License Agreement is distributed, including any Documentation accompanying the Software, on a single personal computer, and to make one (1) backup copy of the Software, provided that:
+  (i) the Software is installed on only one (1) personal computer at any given time;
+  (ii) the Software and all related files are not modified in any way;
+  (iii) all copyright notices are maintained on the Software; and
+  (iv) you agree to be bound by the terms of this License Agreement.
+
+
+B. GRANT OF LICENSE for users of Trial Version only
+
+WaveBreak Software grants users of the Trial Version of this Software the right to use, copy and distribute the Trial Version of the Software with which this License Agreement is distributed as freely as possible, provided that:
+  (i) only the Trial Version of the Software is distributed; Trial Version users who become Registered Version users may not copy or distribute the Registered Version of this Software in any way except as noted in Section A above, pertaining to Registered Users of this Software;
+  (ii) the Software is distributed only in its complete form, including all files listed in the "Installation" section of the README.TXT file that accompanies this Software;
+  (iii) the Software is distributed only in the original self-extracting EXE or compressed ZIP files in which it is originally distributed from WaveBreak Software or an authorized distributor;
+  (iv) the Software is distributed without remuneration of any form, unless the express written consent of WaveBreak Software is obtained prior to any such distribution;
+  (v) the Software and all related files are not modified in any way;
+  (vi) all copyright notices are maintained on the Software; and
+  (vii) you agree to be bound by the terms of this License Agreement.
+
+
+The remaining sections apply to users of both the Registered and Trial Versions of this Software, unless otherwise noted:
+
+
+C. OWNERSHIP
+
+You have no ownership rights in the Software.  Rather, you have a license to use the Software as long as this License Agreement remains in full force and effect.  Ownership of the Software, Documentation and all Intellectual Property rights therein shall remain at all times with WaveBreak Software.  Any other use of the Software by any person, business, corporation, government organization or any other entity is strictly forbidden and is a violation of this License Agreement.
+
+
+D. COPYRIGHT
+
+The Software and Documentation contain material that is protected by United States Copyright Law and Trade Secret Law, and by international treaty provisions.  All rights not granted to you herein are expressly reserved by WaveBreak Software.  You may not remove any proprietary notice of WaveBreak Software from any copy of the Software or Documentation. 
+
+
+E. RESTRICTIONS
+
+You may not publish, display, disclose, rent, lease, modify, loan, distribute, or create derivative works based on the Software or any part thereof.  You may not reverse engineer, decompile, translate, adapt, or disassemble the Software, nor shall you attempt to create the source code from the object code of the Software.
+
+
+F. CONFIDENTIALITY
+
+You acknowledge that the Software contains proprietary trade secrets of WaveBreak Software and you hereby agree to maintain the confidentiality of the Software using at least as great a degree of care as you use to maintain the confidentiality of your own most confidential information.  You agree to reasonably communicate the terms and conditions of this License Agreement to those persons employed by you who come into contact with the Software, and to use reasonable best efforts to ensure their compliance with such terms and conditions, including, without limitation, not knowingly permitting such persons to use any portion of the Software for the purpose of deriving the source code of the Software or defeating the registration requirement.
+
+
+G. LIMITATION OF LIABILITY
+
+THIS SOFTWARE IS SOLD AS IS AND WITHOUT WARRANTY OF ANY KIND, EXPRESSED, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+IN NO EVENT SHALL THE OWNER(S) AND/OR EMPLOYEES OF WAVEBREAK SOFTWARE BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+THE END USER ASSUMES THE ENTIRE RISK OF USING THIS SOFTWARE.  ANY LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT REPLACEMENT OR REFUND OF THE PURCHASE PRICE.
+
+
+H. TERMINATION
+
+This License Agreement is effective until it is terminated.  You may terminate this License Agreement at any time by destroying or otherwise removing from your computer all copies of the Software and Documentation in your possession or under your control.  WaveBreak Software may terminate this License Agreement for any reason, including, but not limited to, if WaveBreak Software finds that you have violated any of the terms of this License Agreement.  Upon notification of termination, you agree to destroy or otherwise remove from your computer all copies of the Software and Documentation and to certify in writing that all known copies, including backup copies, have been destroyed.  All provisions relating to confidentiality, proprietary rights, and non-disclosure shall survive the termination of this License Agreement.
+
+
+I. GENERAL
+
+This License Agreement shall be construed, interpreted and governed by the laws of the United States of America without regard to conflicts of law provisions thereof.  The exclusive forum for any disputes arising out of or relating to this License Agreement shall be an appropriate court sitting in Butler County, Pennsylvania, USA.  This License Agreement shall constitute the entire Agreement between the parties hereto.  Any waiver or modification of this License Agreement shall only be effective if it is in writing and signed by both parties hereto.  If any part of this License Agreement is found invalid or unenforceable by a court of competent jurisdiction, the remainder of this License Agreement shall be interpreted so as to reasonably effect the intention of the parties hereto.
+
+
+Copyright (c) 2005 WaveBreak Software
+
+Updated January 23, 2005
